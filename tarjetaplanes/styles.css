@@ -1,0 +1,83 @@
+*{
+    margin: 0 auto;
+}
+
+
+
+#bordex{
+  
+  width: 300px;
+ 
+
+}
+
+#ninjaimg{
+    position:relative;
+    top: -5px;
+    left: -105px;
+    height: 300px;
+    
+    z-index: -2;
+    
+}
+
+    #card1{
+    
+    color: rgb(103, 103, 103);
+    text-align: center;
+    background: linear-gradient(white, white)padding-box,
+    linear-gradient(to right, #279ae2 10%, #3a4ed5 50%,  #FF4BE8 100%)border-box;
+    border-color: transparent;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20px;
+    width: 300px;
+    margin-bottom: 100px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    box-shadow: 16px 17px 20px 3px  gray;
+    
+
+}
+
+ #title-card1{
+    margin-top: -40px;
+    color: #38B6FF;
+
+}
+
+#min1{
+    color: #38B6FF;
+    margin-top: 20px;
+}
+
+#price1{
+    font-size: large;
+    color: #38B6FF;
+    margin-top: 20px;
+}
+
+#horasclases{
+    margin-top: 20px;
+}
+
+#parrafo{
+    margin-top: 20px;
+}
+
+#btn1{
+    color:white;
+    margin-top: 50px;
+    border-radius: 20px;
+    padding: 7px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: 1px solid;
+    background: linear-gradient(to right,#50bee6, #507fe6,  #0b52c5);
+}
+
+#separador{
+    font-size: 10px;
+    color: #4798c7;
+    margin-top: 10px;
+}
